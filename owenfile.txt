@@ -1,4 +1,4 @@
-Here is a great little text file.  
+Here is a great little text file.
 
 It has several lines.  This is one of them.
 
@@ -7,3 +7,6 @@ Here is another.
 Here is one more line.
 
 
+--- Rolando was here to cause mayhem ----
+
+------------------------ My line is longer than any of Owen's lines, mwhaha.
